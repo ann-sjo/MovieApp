@@ -1,2 +1,2 @@
-# GitDemo-1
+# GitDemo
 Git with Ionic
